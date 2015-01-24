@@ -5,31 +5,96 @@
  * adelsbergerann@gmail.com
  ************************************************************************/
 
-html,body{height:100% !important;width:100% !important; margin:0px; padding:0px;}
-
-.container {height: 500% !important; width: 100% !important;}
-
-.page {height:20% !important; width:100% !important;}
-
-#page1 {
-    background-image: url('/img/union/Union@Night.png');
-    background-color: #fff;
+html,
+body {
+    height: 100%;
 }
 
-#page2 {
-    background-image: url('/img/union/fluffcrowd.png');
-    background-color: #fff;
+ul {
+    list-style-type: none;
+}
+.col-xs-6 li a{ 
+    color: #0d485c;
+    font-size:x-large;
 }
 
-#page3 {
-    background-image: url('/img/union/bowstreet.png');
-    background-color: #fff;
+.col-xs-6 li a:hover {
+    color: #cc6600;
+    font-size: x-large;
+    text-decoration: none;
 }
-#page4 {
-    background-image: url('/img/union/Union@Night.png');
-    background-color: #fff;
+
+/* Wrapper for body to expand to footer */
+#wrapper {
+    min-height:100%; 
+    height:auto !important;
+    height:100%;
+    margin:0 auto -120px auto;  
 }
-#page5 {
-    background-image: url('/img/union/bowstreet.png');
-    background-color: #fff;
+
+#fillspace {
+    height:120px;
 }
+
+#footer {
+    height: 120px;
+    background-color: #0d485c;
+}
+
+
+#footer .row p {
+    color: #fff;
+    padding-top: 2%;
+}
+
+#footer .row li{
+    color: #fff;    
+}
+#footer_link a {
+    color: #fff;    
+}
+
+#footer .row a{
+    color: #e4c325;
+}
+
+#menu{
+    background-color: #0d485c;
+}
+
+.navbar-collapse .navbar-nav li a{
+    color: #fff;
+}
+
+.navbar-collapse .navbar-nav li a:hover{
+    color: #0d485c;
+}
+
+
+body {
+        background-color: #FFF;
+        border-color: #4f4d4f;
+        margin: 0 20px 50px;
+}
+.row .navbar-header .navbar-logo{
+
+
+}
+
+.well{
+    background-color: #d2d2dc;
+    border-color: #4f4d4f;
+    margin-top: 20px; /* cut off top portion of wells */
+    position: relative;
+    width: 100%;
+    height: 100%
+     
+}
+
+
+#cover{
+    position: relative;
+    width: 100%;
+}
+
+
