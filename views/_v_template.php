@@ -18,7 +18,8 @@
 
 	    <link type="image/x-icon" rel="shortcut icon" href="/img/favicon.ico">
 
-
+		<!-- Controller Specific JS/CSS -->
+		<?php if(isset($client_files_head)) echo $client_files_head; ?>
 				
 		<!-- Controller Specific JS/CSS -->
 
