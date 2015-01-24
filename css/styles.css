@@ -12,19 +12,24 @@ html,body{height:100% !important;width:100% !important; margin:0px; padding:0px;
 .page {height:20% !important; width:100% !important;}
 
 #page1 {
-    background-image: url('../img/union/Union@Night.png')
+    background-image: url('/img/union/Union@Night.png');
+    background-color: #fff;
 }
 
 #page2 {
-    background-image: url('../img/union/fluffcrowd.png')
+    background-image: url('/img/union/fluffcrowd.png');
+    background-color: #fff;
 }
 
 #page3 {
-    background-image: url('../img/union/bowstreet.png')
+    background-image: url('/img/union/bowstreet.png');
+    background-color: #fff;
 }
 #page4 {
-    background-image: url('../img/union/Union@Night.png')
+    background-image: url('/img/union/Union@Night.png');
+    background-color: #fff;
 }
 #page5 {
-    background-image: url('../img/union/bowstreet.png')
+    background-image: url('/img/union/bowstreet.png');
+    background-color: #fff;
 }
