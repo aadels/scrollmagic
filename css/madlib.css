@@ -1,0 +1,94 @@
+
+/************************************************************************ 
+ * CSCI E-15 Project 4
+ * Ann Adelsberger 
+ * adelsbergerann@gmail.com
+ ************************************************************************/
+
+h2{
+	text-align: center
+}
+
+
+
+/*form style*/
+.madlib_form #form-fieldset{
+	background: #EEE;
+	margin:auto;
+	position:relative;
+	width:40%;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: bold;
+	color: #4f4d4f;
+	text-decoration: none;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding:10px;
+	border: 1px solid #999;
+	-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+input    {
+	font-size: 12px;
+	width:300px;
+	display:block;
+	border: 1px solid #999;
+	height: 25px;
+	-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	padding-left: 15px;
+}
+
+input.button {
+	width:100px;
+	position:absolute;
+
+	right:20px;
+	bottom:27px;
+	background:#cc6600;
+	color:#fff;
+	font-family: Tahoma, Geneva, sans-serif;
+	height:30px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border: 1px solid #999;
+}
+input.button:hover {
+	background:#fff;
+	color:#3366cc;
+}
+
+textarea:focus, input:focus {
+	border: 1px solid #3366cc;
+}
+
+/*results display style*/
+#results {
+	margin:auto;
+	position:relative;
+	width:40%;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	line-height: 22px;
+	color: #4f4d4f;
+	text-decoration: none;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding:10px;
+}
+
+#index_time {
+	position:relative;
+}
+

@@ -1,0 +1,20 @@
+2014-09-01 14:16:24 - INFO --> -------------------------- 
+2014-09-01 14:16:24 - INFO --> Controller/Method: users/p_signup 
+2014-09-01 14:16:24 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY webmaster@myapp.com 
+2014-09-01 14:16:24 - INFO --> From: Sample App (webmaster@sample-app.com) 
+2014-09-01 14:16:24 - INFO --> To: rumor (rumor@gmail.com),  
+2014-09-01 14:16:24 - INFO --> CC:  
+2014-09-01 14:16:24 - INFO --> BCC:  
+2014-09-01 14:16:24 - INFO --> Subject: Welcome to Somerville Union 
+2014-09-01 14:16:24 - INFO --> Body: <!-- message sent to the user's email when they sign up -->
+Welcome to Somerville Union! This email confirms your registration. 
+2014-09-01 14:28:37 - INFO --> -------------------------- 
+2014-09-01 14:28:37 - INFO --> Controller/Method: users/p_signup 
+2014-09-01 14:28:37 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY webmaster@myapp.com 
+2014-09-01 14:28:37 - INFO --> From: Sample App (webmaster@sample-app.com) 
+2014-09-01 14:28:37 - INFO --> To: ann (ann.adelsberger@yahoo.com),  
+2014-09-01 14:28:37 - INFO --> CC:  
+2014-09-01 14:28:37 - INFO --> BCC:  
+2014-09-01 14:28:37 - INFO --> Subject: Welcome to Somerville Union 
+2014-09-01 14:28:37 - INFO --> Body: <!-- message sent to the user's email when they sign up -->
+Welcome to Somerville Union! This email confirms your registration. 

@@ -1,0 +1,30 @@
+
+/************************************************************************ 
+ * CSCI E-15 Project 4
+ * Ann Adelsberger 
+ * adelsbergerann@gmail.com
+ ************************************************************************/
+
+html,body{height:100% !important;width:100% !important; margin:0px; padding:0px;}
+
+.container {height: 500% !important; width: 100% !important;}
+
+.page {height:20% !important; width:100% !important;}
+
+#page1 {
+    background-image: url('../img/union/Union@Night.png')
+}
+
+#page2 {
+    background-image: url('../img/union/fluffcrowd.png')
+}
+
+#page3 {
+    background-image: url('../img/union/bowstreet.png')
+}
+#page4 {
+    background-image: url('../img/union/Union@Night.png')
+}
+#page5 {
+    background-image: url('../img/union/bowstreet.png')
+}
